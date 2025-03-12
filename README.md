@@ -4,9 +4,6 @@
 <div align=center><img src="https://github.com/MengwuXiao/GetBox-PyMOL-Plugin/blob/master/Screenshot/Fig1.jpg"></div>  
 <div align=center>Fig. 1 Screenshot of the tool</div>
 
-## Download  
-<a href="https://github.com/MengwuXiao/GetBox-PyMOL-Plugin/releases/download/v1.1/GetBox-PyMOL-Plugin.v20180204.zip">GetBox-PyMOL-Plugin.v20180204.zip</a>
-
 ## Tutorials
 <b><a href="#tutorial_cn">中文版教程请点击这里</a></b>
 
